@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="param" extends="struts-default">
+        <!-- package的全局结果页的配置 -->
+        <!-- 会先去自己的action当中找相应的结果页, 如果找不到, 就来全局配置这里找 -->
+        <global-results>
+            <result name="login">/login_res.jsp</result>
+
+            <!-- input结果集是用来配置出错时应该返回的页面 -->
+            <!-- 例如自动类型转换时出错(自动类型转换发生在接收数据时, 参考MyformAction2、MyformAction3、MyformAction4) -->
+            <!-- 只要任何一个拦截器在执行过程中出现错误, 就会向错误信息区中添加错误消息 -->
+            <!-- 最后workflow会检查错误信息区中是否有错误信息 -->
+            <!-- 如果没有, 就直接去到目标action -->
+            <!-- 如果有, 就会跳转到input结果视图 -->
+            <result name="input">/error.jsp</result>
+        </global-results>
+
+        <action name="myform1" class="com.mycomp.struts2.MyformAction"
+                method="getReqParams1">
+            <result name="success">/success_res.jsp</result>
+        </action>
+        <action name="myform2" class="com.mycomp.struts2.MyformAction"
+                method="getReqParams2">
+            <result name="success">/success_res.jsp</result>
+        </action>
+        <action name="myform3" class="com.mycomp.struts2.MyformAction2"
+                method="getReqParams">
+        </action>
+        <action name="myform4" class="com.mycomp.struts2.MyformAction3"
+                method="getReqParams">
+        </action>
+        <action name="myform5" class="com.mycomp.struts2.MyformAction4"
+                method="getReqParams">
+        </action>
+        <action name="myform6" class="com.mycomp.struts2.MyformAction5"
+                method="getReqParams">
+        </action>
+        <action name="myform7" class="com.mycomp.struts2.MyformAction6"
+                method="getReqParams">
+        </action>
+    </package>
+</struts>
