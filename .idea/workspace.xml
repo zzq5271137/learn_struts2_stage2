@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fff45d7b-0bf9-4ac4-a5e6-d91d8c38e4e5" name="Default Changelist" comment="" />
+    <list default="true" id="fff45d7b-0bf9-4ac4-a5e6-d91d8c38e4e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resource/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resource/struts.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -402,6 +404,7 @@
       <workItem from="1581410538488" duration="75000" />
       <workItem from="1581423278036" duration="32000" />
       <workItem from="1581423950038" duration="26000" />
+      <workItem from="1581434222704" duration="109000" />
     </task>
     <servers />
   </component>
