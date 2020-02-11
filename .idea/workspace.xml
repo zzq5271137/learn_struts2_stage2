@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fff45d7b-0bf9-4ac4-a5e6-d91d8c38e4e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Learn_Struts2_stage2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_Struts2_stage2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="fff45d7b-0bf9-4ac4-a5e6-d91d8c38e4e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -399,6 +397,11 @@
       <workItem from="1581303329925" duration="211000" />
       <workItem from="1581303862174" duration="7000" />
       <workItem from="1581303917796" duration="7000" />
+      <workItem from="1581409599907" duration="33000" />
+      <workItem from="1581409713674" duration="187000" />
+      <workItem from="1581410538488" duration="75000" />
+      <workItem from="1581423278036" duration="32000" />
+      <workItem from="1581423950038" duration="26000" />
     </task>
     <servers />
   </component>
