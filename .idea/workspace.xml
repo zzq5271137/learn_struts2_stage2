@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff45d7b-0bf9-4ac4-a5e6-d91d8c38e4e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resource/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resource/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/struts2值栈与OGNL表达式.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/stust2.xmind" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -63,6 +64,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IDEA_workspace\Learn_Struts2_stage2" />
       <recent name="H:\IDEA_workspace\Learn_Struts2_stage2\web\WEB-INF\lib" />
       <recent name="H:\IDEA_workspace\Learn_Struts2_stage2\web" />
       <recent name="H:\IDEA_workspace\Learn_Struts2_stage2\resource" />
@@ -405,6 +407,7 @@
       <workItem from="1581423278036" duration="32000" />
       <workItem from="1581423950038" duration="26000" />
       <workItem from="1581434222704" duration="109000" />
+      <workItem from="1581484104184" duration="14000" />
     </task>
     <servers />
   </component>
