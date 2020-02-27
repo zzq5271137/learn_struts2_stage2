@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff45d7b-0bf9-4ac4-a5e6-d91d8c38e4e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/课件/struts2值栈与OGNL表达式.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/课件/stust2.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/struts2值栈与OGNL表达式.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/stust2.xmind" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -408,6 +408,7 @@
       <workItem from="1581423950038" duration="26000" />
       <workItem from="1581434222704" duration="109000" />
       <workItem from="1581484104184" duration="14000" />
+      <workItem from="1582814495220" duration="1000" />
     </task>
     <servers />
   </component>
