@@ -25,6 +25,7 @@ public class MyformAction6 extends ActionSupport {
     public String getReqParams() {
         System.out.println("Map集合接收参数:");
         System.out.println(goodsMap);
+
         return null;
     }
 
